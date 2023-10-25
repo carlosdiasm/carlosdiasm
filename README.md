@@ -20,7 +20,7 @@ máquina e análise de dados.
 <code><img height="32" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI"/></code>
-<code><img height="32" src="https://www.ibm.com/content/dam/adobe-cms/instana/media_logo/Kafka.component.complex-narrative-xl.ts=1690915714180.png/content/adobe-cms/br/pt/products/instana/supported-technologies/apache-kafka-observability/_jcr_content/root/table_of_contents/body/content_section_styled/content-section-body/complex_narrative/logoimage" alt="Kafka"/></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/2248/PNG/512/apache_kafka_icon_138937.png" alt="Kafka"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 
 ---
