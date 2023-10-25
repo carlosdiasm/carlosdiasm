@@ -21,6 +21,6 @@ máquina e análise de dados.
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" alt="PowerBI"/></code>
 <code><img height="32" src="https://openwhisk.apache.org/images/icons/icon-kafka-white-trans.png" alt="Kafka"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
+<code><img height="32" src="https://agailcombr.files.wordpress.com/2020/12/pdi.png?w=256" alt="Pentaho"/></code>
 
 ---
