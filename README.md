@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é <strong>Carlos Dias!</strong>
 
-> Sou um estudante de Ciência de Dados na PUC Minas, atualmente no 4º período.
+> Sou um estudante de Ciência de Dados na PUC Minas, atualmente no 5º período.
 Tenho interesse nas áreas de desenvolvimento, bancos de dados, aprendizado de
 máquina e análise de dados.
 
