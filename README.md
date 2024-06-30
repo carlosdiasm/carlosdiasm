@@ -1,15 +1,14 @@
-## 💜 Olá, meu nome é <strong>Carlos Dias!</strong>
+## 💜 Hey, my name is Carlos Dias <strong>Carlos Dias!</strong>
 
-> Sou um estudante de Ciência de Dados na PUC Minas, atualmente no 5º período.
-Tenho interesse nas áreas de desenvolvimento, bancos de dados, aprendizado de
-máquina e análise de dados.
+> I'm a Data Science student at PUC Minas, currently in the 5th year.
+I am interested in the areas of deep learning, development, machine learning and data analysis.
 
-🔭 Atualmente meus maiores projetos são na área de pesquisa em machine learning, sendo um dos meus principais trabalhos um método para indentificar perfis com depressão no Brasil.
+🔭 Currently my biggest projects are in the area of ​​deep learning research and one of my main works being a method to identify profiles with depression in Brazil.
 
 
 ---
 
-## 🚀 Minhas Skills
+## 🚀 My skilss
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="Cpp"/></code>
