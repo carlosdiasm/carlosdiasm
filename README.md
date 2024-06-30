@@ -1,6 +1,6 @@
 ## 💜 Hey, my name is Carlos Dias <strong>Carlos Dias!</strong>
 
-> I'm a Data Science student at PUC Minas, currently in the 5th year.
+> I'm a Data Science student at PUC Minas, currently in the 6th semester.
 I am interested in the areas of deep learning, development, machine learning and data analysis.
 
 🔭 Currently my biggest projects are in the area of ​​deep learning research and one of my main works being a method to identify profiles with depression in Brazil.
