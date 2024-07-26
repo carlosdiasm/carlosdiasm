@@ -8,7 +8,7 @@ I am interested in the areas of deep learning, development, machine learning and
 
 ---
 
-## 🚀 My skilss
+## 🚀 My skills
 
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
 <code><img height="32" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="Cpp"/></code>
