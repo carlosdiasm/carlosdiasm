@@ -1,4 +1,4 @@
-## 💜 Hey, my name is Carlos Dias <strong>Carlos Dias!</strong>
+## 💜 Hey, my name is <strong>Carlos Dias!</strong>
 
 > I'm a Data Science student at PUC Minas, currently in the 6th semester.
 I am interested in the areas of deep learning, development, machine learning and data analysis.
