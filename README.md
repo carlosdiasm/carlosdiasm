@@ -1,7 +1,7 @@
 ## 💜 Hey, my name is <strong>Carlos Dias!</strong>
 
-> I'm a Data Science student at PUC Minas, currently in the 6th semester.
-I am interested in the areas of deep learning, development, machine learning and data analysis.
+> I'm a Data Science graduate from PUC Minas, currently focused on Data Engineering.
+My interests include designing and maintaining data pipelines, working with large-scale databases, and developing data-driven solutions that enable analytics, machine learning, and decision-making.
 
 🔭 Currently my biggest projects are in the area of ​​deep learning research and one of my main works being a method to identify profiles with depression in Brazil.
 
@@ -14,7 +14,6 @@ I am interested in the areas of deep learning, development, machine learning and
 <code><img height="32" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" alt="Cpp"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" alt="Git"/></code>
-<code><img height="32" src="https://altyra.com/wp-content/uploads/2018/11/mysql-logo-png-transparent.png" alt="MySQL"/></code>
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="TensorFlow"/></code>
 <code><img height="32" src="https://www.svgrepo.com/show/331370/docker.svg" alt="Docker"/></code>
 <code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968282.png" alt="Java"/></code>
